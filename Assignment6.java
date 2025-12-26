@@ -3,9 +3,9 @@ package JavaAssignment;
 public class Assignment6 {
 
 	public static void main(String[] args) {
-		int marks = 8;
+		int marks = 9;
 
-		if (marks >= 90) {
+		if (marks >= 100) {
 			System.out.println(marks + " Grade A");
 		} else if (marks >= 89) {
 			System.out.println(marks + " Grade b");
